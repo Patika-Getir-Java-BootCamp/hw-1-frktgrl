@@ -1,4 +1,4 @@
-# OOP and Java Interview Questions & Answers
+# OOP and Java Questions & Answers
 
 ## 1. Why do we need to use OOP? Some major OOP languages?
 
